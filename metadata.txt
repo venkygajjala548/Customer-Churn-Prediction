@@ -1,0 +1,41 @@
+st - state
+
+acclen - account length
+
+arcode - area code
+
+phnum - phone number
+
+intplan - internet plan (yes/no)
+
+voice - voice
+
+nummailmes - no of email messages
+
+tdmin - total day messages
+
+tdcal - total day time calls
+
+tdchar - total day time charges
+
+temin - total evening time minutes
+
+tecal - total evening time calls
+
+tecahr - total evening time charges
+
+tnmin - total night time minutes
+
+tn cal - total night time calls
+
+tnchar - total night time charges
+
+timin - total international minutes
+
+tical - total international calls
+
+tichar - total international charges
+
+ncsc - no. of customer services calls
+
+label - Churned? (True/False)
